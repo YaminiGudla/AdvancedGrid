@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.ag-theme-alpine{
+
+display: auto;
+padding-top: 20px;
+padding-left: 40px;
+padding-right: 35px;
+font-style: italic;
+
+--ag-header-foreground-color: white;
+--ag-header-background-color: rgba(84, 86, 86, 0.833);
+}
